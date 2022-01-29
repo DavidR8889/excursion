@@ -56,7 +56,19 @@ div + p {
         background-color: green;
     }
     h1, h2 {
-        font-size: 16px;
+        font-size: 24px;
+    }
+
+    #imageOnPhoneScreen {
+width: fit-content;
+    }
+}
+@media screen and (max-width: 600px) {
+    body {
+        background-color: yelolow;
+    }
+    h1, h2 {
+        font-size: 14px;
     }
 
     #imageOnPhoneScreen {

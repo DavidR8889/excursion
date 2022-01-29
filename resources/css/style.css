@@ -53,7 +53,7 @@ div + p {
 }
 @media screen and (max-width: 900px) {
     body {
-        background-color: green;
+        background-color: gold;
     }
     h1, h2 {
         font-size: 24px;
@@ -63,9 +63,9 @@ div + p {
 width: fit-content;
     }
 }
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 700px) {
     body {
-        background-color: yellow;
+        background-color: red;
     }
     h1, h2 {
         font-size: 14px;
